@@ -1,0 +1,39 @@
+input {
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: black;
+    color: #fff;
+    border-style: none;
+}
+
+#myform {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top: 20px
+}
+
+#first {
+    width: auto;
+    float: left;
+}
+
+#second {
+    width: 900px;
+    float: left
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
